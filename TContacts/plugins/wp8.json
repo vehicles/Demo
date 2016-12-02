@@ -1,0 +1,22 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "{f1f30440-b862-11e6-a0bd-572b1df44b9b}"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "{f1f30440-b862-11e6-a0bd-572b1df44b9b}"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "{f1f30440-b862-11e6-a0bd-572b1df44b9b}"
+        }
+    }
+}
